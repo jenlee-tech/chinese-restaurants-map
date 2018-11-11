@@ -29,7 +29,7 @@ Then on your browser, visit http://localhost:5000/
 
 - [LatLong.net](https://www.latlong.net/place/new-haven-ct-usa-13990.html) - LAT, LONG coordinates of Hartford, CT obtained from here.
 
-- [React documentation](https://reactjs.org/).
+- [React documentation](https://reactjs.org/) - of course!
 
 - [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app) - details on activating your service worker so that your app could work offline.
 
@@ -51,6 +51,6 @@ Then on your browser, visit http://localhost:5000/
 
 - Udacity's Project Grading Rubric on Neighborhood Map
 
-## - Further thoughts:
+## Further thoughts:
 
 After the last two projects, I really like React. I definitely will continue to create more projects with React. This project was built on lots of reading and drinking copious amounts of coffee. :coffee: :smile:
