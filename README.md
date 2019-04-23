@@ -5,7 +5,8 @@ The project entails creating a neighborhood map by using React. My topic of inte
 
 ## To get started:
 
-- clone or download this repository in a folder.
+- clone or download this repository in a folder:
+[https://github.com/jenlee-tech/chinese-restaurants-map](https://github.com/jenlee-tech/chinese-restaurants-map)
 - in a terminal such as Git Bash or Node, navigate to the same folder
 - install all project dependencies by typing `npm install`
 - start the development server by typing `npm start`
